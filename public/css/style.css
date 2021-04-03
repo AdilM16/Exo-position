@@ -1,0 +1,38 @@
+.Saumon {
+    position: fixed;
+    background: salmon;
+    height: 150px;
+    width: 100%;
+    top: 0;
+}
+.Turquoise {
+    position: relative;
+    background: turquoise;
+    height: 500px;
+    width: 70%;
+    left: 75px;
+    top: 200px;
+}
+.Turquoise1 {
+    position: relative;
+    background: turquoise;
+    height: 2000px;
+    width: 70%;
+    left: 75px;
+    top: 200px;
+}
+.Mauve {
+    position: absolute;
+    background: blueviolet;
+    height: 100px;
+    width: 100px;
+    right: 10%;
+    top: 10%;
+}
+.Jaune {
+    position: sticky;
+    background: yellow;
+    height: 250px;
+    width: 250px;
+    top: 10px;
+}
